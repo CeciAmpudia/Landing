@@ -1,0 +1,34 @@
+header {
+	padding: 20px;
+}
+section {
+	background: gray;
+	padding: 50px;
+}
+.nav {
+	float: right;
+}
+.logo {
+	height: 35px;
+}
+footer {
+	padding: 5px;
+}
+.text-white {
+	color: white;
+}
+.text-gray {
+	color: gray;
+}
+.txt {
+	font-size: 62px;
+}
+.b-well {
+	background-color: #999;
+	border-radius: 10px;
+	padding: 20px;
+}
+p {
+	padding: 25px 0;
+	font-size: 18px;
+}
